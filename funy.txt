@@ -1,0 +1,2 @@
+hello python!!
+am wram writing contents to fun file

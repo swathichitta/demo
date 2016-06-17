@@ -1,0 +1,29 @@
+#mysql installation 
+sudo apt-get install mysql-server
+
+
+# update command
+sudo apt-get update
+
+# login mysql command
+mysql -u root -p
+
+
+# mysql database creation
+
+Create database databasename;
+
+# for pip install 
+
+sudo apt-get install python-setuptools python-dev build-essential
+
+sudo easy_install pip
+
+
+#mysql-python connector commands
+
+sudo pip install mysql-connector-python --allow-external mysql-connector-python
+
+sudo easy_install mysql-python
+
+sudo pip install MySQL-python
